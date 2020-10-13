@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7S212021prac4</string>
+    <string name="btnpng">Imagen PNG</string>
+    <string name="btnjpg">Imagen jpg</string>
+    <string name="btnurl">Imagen URL</string>
+    <string name="todo">Imagen</string>
+</resources>
